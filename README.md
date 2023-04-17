@@ -1,5 +1,5 @@
 # aws-amplify-art-web
- Art Web Rork
+
 <img src="https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png" alt="AWS Amplify" width="550" >
 
 ## Documentación
