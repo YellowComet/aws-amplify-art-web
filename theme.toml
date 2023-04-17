@@ -1,14 +1,18 @@
-name = "Write-Only Hugo Theme"
+name = "Hugo Initio"
 license = "MIT"
-licenselink = "https://gitlab.com/writeonlyhugo/writeonlyhugo-theme/-/blob/master/LICENSE"
-description = "A simple, clean and straightforward blog theme."
-
-homepage = "https://gitlab.com/writeonlyhugo/writeonlyhugo-theme/"
-demosite = "https://writeonlyhugo.gitlab.io/writeonlyhugo-demo/"
-
-tags = ["blog", "responsive", "personal", "light", "bootstrap" ]
-features = []
+licenselink = "https://github.com/miguelsimoni/hugo-initio/blob/master/LICENSE.md"
+description = ""
+homepage = "https://miguelsimoni.github.io/hugo-initio-site/"
+tags = ["blog","responsive","personal","google analytics","portfolio","disqus","bootstrap","font awesome","projects","creative","landing page","product","white","share this"]
+features = ["blog","responsive","personal","google analytics","portfolio","disqus","bootstrap","font awesome","projects","creative","landing page","product","white","share this"]
+min_version = "0.68.3"
 
 [author]
-  name = "Iago Bozza"
-  homepage = "https://writeonlycode.io/"
+  name = "Miguel Simoni"
+  homepage = "https://miguelsimoni.xyz/"
+
+[original]
+  name = "Initio"
+  author = "Sergey Pozhilov"
+  homepage = "http://www.gettemplate.com/info/initio/"
+  repo = "https://github.com/pozh/Initio"
