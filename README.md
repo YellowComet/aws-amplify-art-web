@@ -2,9 +2,6 @@
 
 <img src="https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png" alt="AWS Amplify" width="550" >
 
-## Documentación
-**Android**
-Los [Componentes de Material UI para Android](https://material.io/components/android/) son componentes de UI modulares y personalizables que implementan Material Design. Este repositorio utiliza como base el código del laboratorio ["Building Beautiful Apps Faster"](https://codelabs.developers.google.com/codelabs/mdc-android/index.html).
 
 **Amplify**
 Puede inicializar su proyecto de Amplify siguiendo los pasos publicados en la [documentación oficial](https://docs.amplify.aws/cli/start/install#option-1-watch-the-video-guide).
