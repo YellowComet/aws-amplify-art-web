@@ -1,4 +1,4 @@
-# Initio theme for Hugo
+# Initio theme for Hugoe
 
 ![GitHub](https://img.shields.io/github/license/miguelsimoni/hugo-initio.svg?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/miguelsimoni/hugo-initio.svg?style=flat-square)
