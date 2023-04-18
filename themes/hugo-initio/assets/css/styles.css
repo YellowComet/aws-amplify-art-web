@@ -426,7 +426,7 @@ img {
   .thumbnail .img {
     width: calc(100% + 30px);
     height: 280px;
-    margin-left: -15px;
+    margin-left: -1px;
   }
 }
 .thumbnail .title {
