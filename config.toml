@@ -19,15 +19,15 @@ theme = "hugo-initio"
     author = "Diego Miret Halffter"
 
     showSubheader = true
-    showServices = true
+    showServices = false
     showRecentWorks = true
     showDownloads = false
     showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"
