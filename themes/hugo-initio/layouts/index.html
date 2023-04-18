@@ -6,7 +6,8 @@
       {{ if .Site.Params.showSubheader }}
         {{ partial "home/subheader.html" . }}
       {{ end }}
-      
+
+      <!-- Para añadir en la pagina principal mas seccion se hace desde aqui por ejemplo: variable a true o false en toml-->
         {{ range .Site.Sections }}
             {{ range .Sections.ByWeight }}
                 {{ $stype := .Type}}

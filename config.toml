@@ -21,8 +21,8 @@ theme = "hugo-initio"
     showSubheader = true
     showServices = true
     showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showDownloads = false
+    showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
@@ -50,21 +50,21 @@ theme = "hugo-initio"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/nickname"
+	url = "https://www.facebook.com/diego.miret.9"
     icon = "fab fa-facebook-square"
     footer = true
     sharethis = true
     network = "facebook"
 [[params.social]]
 	title = "twitter"
-	url = "https://twitter.com/nickname"
+	url = "https://twitter.com/Yellow_Comet13"
     icon = "fab fa-twitter-square"
     footer = true
     sharethis = true
     network = "twitter"
 [[params.social]]
 	title = "instagram"
-	url = "https://www.instagram.com/nickname"
+	url = "https://www.instagram.com/diegomiret13"
     icon = "fab fa-instagram"
     footer = true
     sharethis = false
@@ -78,9 +78,9 @@ theme = "hugo-initio"
     network = "googleplus"
 [[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://es.linkedin.com/in/diego-miret-halffter-a34063129"
     icon = "fab fa-linkedin"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]
@@ -92,7 +92,7 @@ theme = "hugo-initio"
     network = "tumblr"
 [[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/YellowComet"
     icon = "fab fa-github"
     footer = true
     sharethis = false
